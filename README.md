@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sheecodes
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Go 
+- 💞️ I’m looking to collaborate on mobile development
